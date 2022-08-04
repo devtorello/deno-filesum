@@ -1,4 +1,10 @@
 {
+	"compilerOptions": {
+		"lib": [
+			"deno.worker",
+			"deno.window"
+		]
+	},
 	"fmt": {
 		"options": {
 			"useTabs": true,
