@@ -49,4 +49,4 @@ cd deno-filesum
 deno run --allow-write --allow-read --allow-hrtime src/main.ts
 ```
 
-In this case, I'm afraid you're gonna need to have deno installed. 🥲
+In this case, I'm afraid you're gonna need to have deno installed. You can check how it can be installed [here](https://deno.land/manual/getting_started/installation). 🥲
